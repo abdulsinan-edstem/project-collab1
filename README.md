@@ -1,3 +1,3 @@
 this is the second project
 changed made in this file
-changed for reset
+change made for git diff
